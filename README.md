@@ -73,7 +73,7 @@ AM12MHZ.eu.org
 AM701KHZ.eu.org
 
 为了安全起见，需要两手都给准备!!!!! 账号信息发到
-http://github.com/underground
+http://github.com/underground worker
 
 
 
