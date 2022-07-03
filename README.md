@@ -1,11 +1,28 @@
 域名依然是eu.org免费域名!是注册的时候必须要更换身份和所在地。
 同时兴趣爱好，目的全部要改变。他们才会认为不是一个人!!!
 
+使用的域名
+
+domain-dns.eu.org
+
+domain-ns.eu.org
+
+重点是这两个
+
+accelerate.eu.org（这个作网站加速 不能用第二个方案。只能用第一个方案!）
+
+dnsaccelerate.eu.org
+
+其中第一个还可以用于做网站web 资源加速。完成验证之后，使用子域/主域ns托管!
+
 权威服务器只能添加六条记录。无法使用多家做负载平衡。
 
 方案1
 
 cloudflare.com本身的dns，不开启cdn加速而已!
+这个方案虽然简单，容易上手。但存在丢弃权威服务器
+数据包实现阻断。
+
 
 方案2
 
@@ -16,13 +33,13 @@ cloudflare.com本身的dns，不开启cdn加速而已!
 然后把权威服务器指向自己的域名。
 
 
-不管是顶级域名还是子域名都是有效的。只是更多的域名而已!
-
-使用的域名
+如果使用这个方案，需要的域名!
 
 VoxAkuma.eu.org 
 
 LucaKaneshiro.eu.org
+
+重点是这三个
 
 AM6MHZ.eu.org
 
@@ -30,20 +47,12 @@ AM12MHZ.eu.org
 
 AM701KHZ.eu.org
 
-为了安全起见，这两手都给准备!!!!!
+为了安全起见，需要两手都给准备!!!!!
 
 
-验证和初始解析
 
-domain-dns.eu.org
 
-domain-ns.eu.org
 
-accelerate.eu.org
-
-dnsaccelerate.eu.org
-
-完成验证之后，使用子域ns托管!
 
 
 #作用就是让公共dns作为跳板。公共dns不但速度快，而且节点多。
