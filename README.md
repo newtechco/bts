@@ -14,13 +14,20 @@ cloudflare.com本身的dns，不开启cdn加速而已!
 
 然后把权威服务器指向自己的域名。
 
-不管是顶级域名还是域名都是有效的。只是更多的域名而已。
+
+不管是顶级域名还是子域名都是有效的。只是更多的域名而已!
 
 使用的域名
 
-VoxAkuma.eu.org
+VoxAkuma.eu.org 
 
 LucaKaneshiro.eu.org
+
+AM6MHZ.eu.org
+
+AM12MHZ.eu.org
+
+AM701KHZ.eu.org
 
 为了安全起见，这两手都给准备!!!!!
 
