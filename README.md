@@ -1,22 +1,25 @@
-域名依然是eu.org免费域名!是注册的时候必须要更换身份和所在地。
+域名依然是eu.org免费域名! 是注册的时候 必须要更换身份和所在地。
 同时兴趣爱好，目的全部要改变。他们才会认为不是一个人!!!
+
+
+
+登录邮箱
+cdn
+cdn@redalert.eu.org
+
+dns
+域名@redalert.eu.org
+
+
 
 使用的域名
 
-domain-dns.eu.org
 
-完成以后域名转移到LM644-FREE
-
-cdn
+domain-ns.eu.org(使方案1)
 
 
-domain-dns.eu.org@Outlook.com
 
-
-因为太心急了，所以在华为云上已经添加了。这个游戏华为云解析添加的是
-domain-ns.eu.org
-
-domain-ns.eu.org
+domain-dns.eu.org(使用方案2)
 
 
 
@@ -26,9 +29,10 @@ domain-ns.eu.org
 
 accelerate.eu.org（这个作网站加速 不能用第二个方案。只能用第一个方案!）
 
-dnsaccelerate.eu.org
 
-其中第一个还可以用于做网站web 资源加速。完成验证之后，使用子域/主域ns托管!
+dnsaccelerate.eu.org(使用方案2)
+
+
 
 权威服务器只能添加六条记录。无法使用多家做负载平衡。
 
@@ -50,11 +54,12 @@ cloudflare.com本身的dns，不开启cdn加速而已!
 
 如果使用这个方案，需要的域名!
 
-VoxAkuma.eu.org 
+VoxAkuma.eu.org (方案1)
 
-LucaKaneshiro.eu.org
+LucaKaneshiro.eu.org(方案1)
 
-重点是这三个
+
+重点是这三个(全部使用方案2)
 
 AM6MHZ.eu.org
 
@@ -62,8 +67,8 @@ AM12MHZ.eu.org
 
 AM701KHZ.eu.org
 
-为了安全起见，需要两手都给准备!!!!!
-
+为了安全起见，需要两手都给准备!!!!! 账号信息发到
+http://github.com/underground
 
 
 
