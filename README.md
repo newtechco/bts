@@ -5,6 +5,8 @@
 
 domain-dns.eu.org
 
+完成以后域名转移到LM644-FREE
+
 domain-ns.eu.org
 
 重点是这两个
