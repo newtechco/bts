@@ -9,6 +9,10 @@ domain-dns.eu.org
 
 domain-ns.eu.org
 
+
+
+
+
 重点是这两个
 
 accelerate.eu.org（这个作网站加速 不能用第二个方案。只能用第一个方案!）
