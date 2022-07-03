@@ -4,11 +4,16 @@
 
 
 登录邮箱
+
 cdn
+
 cdn@redalert.eu.org
 
+
 dns
+
 域名@redalert.eu.org
+
 
 
 
@@ -80,6 +85,10 @@ http://github.com/underground
  在内地搭建一个服务器。在内地开放53端口 然后域名解析找到这个ip上。 
 这个服务器上连接VPN 直接连接境外网络。然后让公共dns缓存。
 可以破解防火墙阻断域名权威服务器被阻断。
+
+
+
+
 
 
 ns1
