@@ -7,6 +7,15 @@ domain-dns.eu.org
 
 完成以后域名转移到LM644-FREE
 
+cdn
+
+
+domain-dns.eu.org@Outlook.com
+
+
+因为太心急了，所以在华为云上已经添加了。这个游戏华为云解析添加的是
+domain-ns.eu.org
+
 domain-ns.eu.org
 
 
